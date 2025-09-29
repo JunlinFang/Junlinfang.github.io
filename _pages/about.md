@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: single
 title: "Junlin Fang (方俊麟) | Homepage"
 excerpt: "About me"
 author_profile: true
