@@ -24,7 +24,7 @@ The 'if' statement handles different base URLs for local development vs. deploye
 
 # About Me
 
-I am Junlin Fang (方俊麟), an incoming Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/ccds) at Nanyang Technological University (NTU), starting in Spring 2026. I will be fortunate to be supervised by Prof. [Sean Du](https://d12306.github.io/index.html).
+I am Junlin Fang (方俊麟), an incoming Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing) at Nanyang Technological University (NTU), starting in Spring 2026. I will be fortunate to be supervised by Prof. [Sean Du](https://d12306.github.io/index.html).
 
 Previously, I obtained both my Master's and Bachelor's degrees from Southwest Jiaotong University. During my studies, I was advised by Prof. [Fengmao Lv](https://fengmaolv.github.io/online-cv/) and had a close and fruitful collaboration with Prof. [Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
 
