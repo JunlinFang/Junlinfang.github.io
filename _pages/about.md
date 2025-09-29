@@ -42,7 +42,7 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
 
 ---
 
-#  publications
+#  Publications
 
 * Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. <br>
     **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv. <br>
