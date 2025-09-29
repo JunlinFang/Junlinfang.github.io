@@ -46,7 +46,7 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
 
 * Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. <br>
     **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv. <br>
-    *Proceedings of the ACM International Conference on Multimedia (**Multimedia**), 2025.* (Oral)
+    *Proceedings of the ACM International Conference on Multimedia, 2025.* (Oral)
 
 * MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification. <br>
     Fengmao Lv, Mengting Xiong, **Junlin Fang**, Lingli Zhang, Tianze Luo, Weichao Liange, Tianrui Li. <br>
@@ -55,7 +55,7 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
 
 * Sentiment-oriented Sarcasm Integration for Video Sentiment Analysis Enhancement with Sarcasm Assistance. <br>
     **Junlin Fang**, Wenya Wang, Guosheng Lin, Fengmao Lv. <br>
-    *Proceedings of the ACM International Conference on Multimedia (**Multimedia**), 2024.* <br>
+    *Proceedings of the ACM International Conference on Multimedia, 2024.* <br>
     [\[PDF\]](https://dl.acm.org/doi/10.1145/3664647.3680703) [\[Code\]](https://github.com/tiggers23/PS2RI)
 
 * Progressive Multimodal Pivot Learning: Towards Semantic Discordance Understanding as Humans. <br>
