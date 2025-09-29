@@ -13,15 +13,15 @@ My research is primarily centered around exploring **Realiability**, **Security*
 
 News
 ======
-1. [9/25/2025] I receiee the PhD offer from Prof. [Sean Du](https://d12306.github.io/index.html)!!!
-1. [7/6/2025] One paper is accepted to Multimedia 2025 as oral paper.
-1. [1/21/2025] One paper is accepted to WWW 2025 as oral paper.
-1. [7/25/2024] One paper is accepted to Multimedia 2024.
-1. [2/25/2024] One paper is accepted to CIKM 2024 as oral paper.
+-  [9/25/2025] I receiee the PhD offer from Prof. [Sean Du](https://d12306.github.io/index.html)!!!
+-  [7/6/2025] One paper is accepted to Multimedia 2025 as oral paper.
+-  [1/21/2025] One paper is accepted to WWW 2025 as oral paper.
+-  [7/25/2024] One paper is accepted to Multimedia 2024.
+-  [2/25/2024] One paper is accepted to CIKM 2024 as oral paper.
 
 Publications
 ======
-- ``MultiMedia 2025`` Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv
+-  ``MultiMedia 2025`` Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv
 
 - ``WWW 2025`` MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification. Fengmao Lv, Mengting Xiong, **Junlin Fang**, Lingli Zhang, Tianze Luo, Weichao Liange, Tianrui Li \[(PDF)[https://dl.acm.org/doi/10.1145/3696410.3714570]\] [(Code)[https://github.com/tiggers23/MSTI-Plus]]
 
