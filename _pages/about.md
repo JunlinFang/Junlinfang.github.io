@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 title: ""
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -30,7 +30,7 @@ Previously, I obtained both my Master's and Bachelor's degrees from Southwest Ji
 
 My research interests include the **Reliability**, **Security**, **Alignment**, and **Reasoning** of Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs).
 
-<br> ---
+---
 
 # News
 
