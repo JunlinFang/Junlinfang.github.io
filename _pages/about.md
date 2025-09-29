@@ -45,5 +45,5 @@ My research is primarily centered around exploring **Realiability**, **Security*
 
 # Educations
 - *2026.01*, PhD, School of College of Computing and Data Science (CCDS), Nanyang Technological University, Singapore
-- *2023.09 - 2025.12 (expected)*, Master, School of Computing and Artificial Intelligence, Southwest JiaoTong University, China. 
-- *2019.09 - 2023.06*, Undergraduate, School of Computing and Artificial Intelligence, Southwest JiaoTong University, China.
+- *2023.09 - 2025.12 (expected)*, Master, School of Computing and Artificial Intelligence, Southwest Jiaotong University, China. 
+- *2019.09 - 2023.06*, Undergraduate, School of Computing and Artificial Intelligence, Southwest Jiaotong University, China.
