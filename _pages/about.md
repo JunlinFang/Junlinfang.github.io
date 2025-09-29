@@ -38,7 +38,7 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
 - **[7/6/2025]** Our paper was accepted as an oral presentation at **ACM Multimedia 2025**.
 - **[1/21/2025]** Our paper was accepted as an oral presentation at **The Web Conference (WWW) 2025**.
 - **[7/25/2024]** One paper was accepted to **ACM Multimedia 2024**.
-- **[7/25/2024]** Our paper was accepted as an oral presentation at **CIKM 2024**.
+- **[7/25/2024]** One paper was accepted as an oral presentation at **CIKM 2024**.
 
 ---
 
