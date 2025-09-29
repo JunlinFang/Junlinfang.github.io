@@ -1,52 +1,87 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Junlin Fang (方俊麟) | Homepage"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+{% comment %}
+This block constructs the URL for the Google Scholar stats badge.
+The 'if' statement handles different base URLs for local development vs. deployed site.
+{% endcomment %}
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 # About Me
 
-I am Junlin Fang (方俊麟), and I will be joining NTU's CCDS as a PhD student in Spring 2026, under the supervision of Prof. [Sean Du](https://d12306.github.io/index.html). Before that, I completed both my Master's and Bachelor's degrees at Southwest Jiaotong University, where I was advised by Prof. [Fengmao Lv](https://fengmaolv.github.io/online-cv/) and worked in close collaboration with Prof. [Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
+I am Junlin Fang (方俊麟), an incoming Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/ccds) at Nanyang Technological University (NTU), starting in Spring 2026. I will be fortunate to be supervised by Prof. [Sean Du](https://d12306.github.io/index.html).
 
-My research is primarily centered around exploring **Realiability**, **Security**, **Alignment**, and **Reasoning** within the context of Large Language Models and Multimodal Large Language Models.
+Previously, I obtained both my Master's and Bachelor's degrees from Southwest Jiaotong University. During my studies, I was advised by Prof. [Fengmao Lv](https://fengmaolv.github.io/online-cv/) and had a close and fruitful collaboration with Prof. [Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
+
+My research interests include the **Reliability**, **Security**, **Alignment**, and **Reasoning** of Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs).
+
+<br> ---
 
 # News
 
--  [9/25/2025] I receiee the PhD offer from Prof. [Sean Du](https://d12306.github.io/index.html)!!!
--  [7/6/2025] One paper is accepted to Multimedia 2025 as oral paper.
--  [1/21/2025] One paper is accepted to WWW 2025 as oral paper.
--  [7/25/2024] One paper is accepted to Multimedia 2024.
--  [2/25/2024] One paper is accepted to CIKM 2024 as oral paper.
+- **[9/25/2025]** Honored to receive a Ph.D. offer from Prof. [Sean Du](https://d12306.github.io/index.html) to join his group at NTU!
+- **[7/6/2025]** Our paper was accepted as an oral presentation at **ACM Multimedia 2025**.
+- **[1/21/2025]** Our paper was accepted as an oral presentation at **The Web Conference (WWW) 2025**.
+- **[7/25/2024]** One paper was accepted to **ACM Multimedia 2024**.
+- **[7/25/2024]** Our paper was accepted as an oral presentation at **CIKM 2024**.
 
-# Publications
+---
 
--  ``MultiMedia 2025`` Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv
+#  publications
 
-- ``WWW 2025`` MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification. Fengmao Lv, Mengting Xiong, **Junlin Fang**, Lingli Zhang, Tianze Luo, Weichao Liange, Tianrui Li
-  [\[PDF\]](https://dl.acm.org/doi/10.1145/3696410.3714570) [\[Code\]](https://github.com/tiggers23/MSTI-Plus)
+* Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. <br>
+    **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv. <br>
+    *Proceedings of the ACM International Conference on Multimedia (**Multimedia**), 2025.* (Oral)
 
-- ``MultiMedia 2024`` Sentiment-oriented Sarcasm Integration for Video Sentiment Analysis Enhancement with Sarcasm Assistance. **Junlin Fang**, Wenya Wang, Guosheng Lin, Fengmao Lv
-  [\[PDF\]](https://dl.acm.org/doi/10.1145/3664647.3680703) [\[Code\]](https://github.com/tiggers23/PS2RI)
+* MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification. <br>
+    Fengmao Lv, Mengting Xiong, **Junlin Fang**, Lingli Zhang, Tianze Luo, Weichao Liange, Tianrui Li. <br>
+    *Proceedings of the ACM Web Conference (**WWW**), 2025.* (Oral) <br>
+    [\[PDF\]](https://dl.acm.org/doi/10.1145/3696410.3714570) [\[Code\]](https://github.com/tiggers23/MSTI-Plus)
 
-- ``CIKM 2024`` Progressive Multimodal Pivot Learning: Towards Semantic Discordance Understanding as Humans. **Junlin Fang**, Wenya Wang, Tianze Luo, Yanyong Huang, Fengmao Lv
-  [\[PDF\]](https://dl.acm.org/doi/10.1145/3627673.3679524) [\[Code\]](https://github.com/tiggers23/PMPL)
+* Sentiment-oriented Sarcasm Integration for Video Sentiment Analysis Enhancement with Sarcasm Assistance. <br>
+    **Junlin Fang**, Wenya Wang, Guosheng Lin, Fengmao Lv. <br>
+    *Proceedings of the ACM International Conference on Multimedia (**Multimedia**), 2024.* <br>
+    [\[PDF\]](https://dl.acm.org/doi/10.1145/3664647.3680703) [\[Code\]](https://github.com/tiggers23/PS2RI)
 
-- ``TKDE Under Major revision`` Modeling Deep Fusion of Intra- and Inter-Modal Incongruity for Multimodal Sarcasm Detection. Fengmao Lv, **Junlin Fang**, Guosheng Lin,Wenya Wang
+* Progressive Multimodal Pivot Learning: Towards Semantic Discordance Understanding as Humans. <br>
+    **Junlin Fang**, Wenya Wang, Tianze Luo, Yanyong Huang, Fengmao Lv. <br>
+    *Proceedings of the ACM International Conference on Information and Knowledge Management (**CIKM**), 2024.* (Oral) <br>
+    [\[PDF\]](https://dl.acm.org/doi/10.1145/3627673.3679524) [\[Code\]](https://github.com/tiggers23/PMPL)
 
-- ``TOMM Under Major revision`` Rethinking the Effect of Unimodal Labels in Multimodal Sentiment Analysis. Lingli Zhang, Tianrui Li, Baiyu Lu, **Junlin Fang**, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv
+* Modeling Deep Fusion of Intra- and Inter-Modal Incongruity for Multimodal Sarcasm Detection. <br>
+    Fengmao Lv, **Junlin Fang**, Guosheng Lin, Wenya Wang. <br>
+    *IEEE Transactions on Knowledge and Data Engineering (**TKDE**).* [Under Major Revision]
 
-# Educations
-- *2026.01*, PhD, School of College of Computing and Data Science (CCDS), Nanyang Technological University, Singapore
-- *2023.09 - 2025.12 (expected)*, Master, School of Computing and Artificial Intelligence, Southwest Jiaotong University, China. 
-- *2019.09 - 2023.06*, Undergraduate, School of Computing and Artificial Intelligence, Southwest Jiaotong University, China.
+* Rethinking the Effect of Unimodal Labels in Multimodal Sentiment Analysis. <br>
+    Lingli Zhang, Tianrui Li, Baiyu Lu, **Junlin Fang**, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv. <br>
+    *ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**).* [Under Major Revision]
+
+---
+
+# Education
+
+-   **Ph.D. in Computer Science** <br>
+    Nanyang Technological University, Singapore <br>
+    *Jan. 2026*
+
+-   **M.S. in Computer Science and Technology** <br>
+    Southwest Jiaotong University, China <br>
+    *Sep. 2023 - Dec. 2025 (Expected)*
+
+-   **B.Eng. in Computer Science and Technology** <br>
+    Southwest Jiaotong University, China <br>
+    *Sep. 2019 - Jun. 2023*
