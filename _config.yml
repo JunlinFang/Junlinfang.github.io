@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Junlin Fang 方俊麟"
 description              : "Homepage of Junlin Fang 方俊麟. jlfang@my.swjtu.edu.cn"
-repository               : "https://github.com/JunlinFang/Junlinfang.github.io"
+repository               : "JunlinFang/Junlinfang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
