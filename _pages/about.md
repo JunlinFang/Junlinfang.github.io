@@ -34,13 +34,13 @@ My research is primarily centered around exploring **Realiability**, **Security*
 -  ``MultiMedia 2025`` Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv
 
 - ``WWW 2025`` MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification. Fengmao Lv, Mengting Xiong, **Junlin Fang**, Lingli Zhang, Tianze Luo, Weichao Liange, Tianrui Li
-  [\[PDF\]][https://dl.acm.org/doi/10.1145/3696410.3714570] [\[Code\]][https://github.com/tiggers23/MSTI-Plus]
+  [\[PDF\](https://dl.acm.org/doi/10.1145/3696410.3714570) [\[Code\]](https://github.com/tiggers23/MSTI-Plus)
 
 - ``MultiMedia 2024`` Sentiment-oriented Sarcasm Integration for Video Sentiment Analysis Enhancement with Sarcasm Assistance. **Junlin Fang**, Wenya Wang, Guosheng Lin, Fengmao Lv
-  [\[PDF\]][https://dl.acm.org/doi/10.1145/3664647.3680703] [\[Code\]][https://github.com/tiggers23/PS2RI]
+  [\[PDF\]](https://dl.acm.org/doi/10.1145/3664647.3680703) [\[Code\]](https://github.com/tiggers23/PS2RI)
 
 - ``CIKM 2024`` Progressive Multimodal Pivot Learning: Towards Semantic Discordance Understanding as Humans. **Junlin Fang**, Wenya Wang, Tianze Luo, Yanyong Huang, Fengmao Lv
-  [\[PDF\]][https://dl.acm.org/doi/10.1145/3664647.3680703](https://dl.acm.org/doi/10.1145/3627673.3679524)] [\[Code\]][https://github.com/tiggers23/PMPL]
+  [\[PDF\]](https://dl.acm.org/doi/10.1145/3627673.3679524) [\[Code\]](https://github.com/tiggers23/PMPL)
 
 - ``TKDE Under Major revision`` Modeling Deep Fusion of Intra- and Inter-Modal Incongruity for Multimodal Sarcasm Detection. Fengmao Lv, **Junlin Fang**, Guosheng Lin,Wenya Wang
 
