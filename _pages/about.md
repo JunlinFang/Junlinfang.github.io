@@ -47,7 +47,7 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
 
 * Rethinking the Effect of Unimodal Labels in Multimodal Sentiment Analysis. <br>
     Lingli Zhang, Tianrui Li, Baiyu Lu, **Junlin Fang**, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv. <br>
-    *ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**).* [Accepted]
+    *ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**).*
   
 * Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. <br>
     **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv. <br>
