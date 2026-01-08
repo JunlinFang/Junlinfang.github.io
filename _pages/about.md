@@ -34,6 +34,7 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
 
 # News
 
+- **[1/7/2026]** Start my journey at NTU!
 - **[9/25/2025]** Honored to receive a Ph.D. offer from Prof. [Sean Du](https://d12306.github.io/index.html) to join his group at NTU!
 - **[7/6/2025]** One paper was accepted as an oral presentation at **ACM Multimedia 2025**.
 - **[1/21/2025]** One paper was accepted as an oral presentation at **The Web Conference 2025**.
@@ -44,6 +45,10 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
 
 #  Publications
 
+* Rethinking the Effect of Unimodal Labels in Multimodal Sentiment Analysis. <br>
+    Lingli Zhang, Tianrui Li, Baiyu Lu, **Junlin Fang**, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv. <br>
+    *ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**).* [Accepted]
+  
 * Why is a Bird’s Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data. <br>
     **Junlin Fang**, Wenya Wang, Lingli Zhang, Fengmao Lv. <br>
     *Proceedings of the ACM International Conference on Multimedia, 2025.* (Oral)
@@ -63,14 +68,11 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
     *Proceedings of the ACM International Conference on Information and Knowledge Management (**CIKM**), 2024.* (Oral) <br>
     [\[PDF\]](https://dl.acm.org/doi/10.1145/3627673.3679524) [\[Code\]](https://github.com/tiggers23/PMPL)
 
+%
 * Modeling Deep Fusion of Intra- and Inter-Modal Incongruity for Multimodal Sarcasm Detection. <br>
     Fengmao Lv, **Junlin Fang**, Guosheng Lin, Wenya Wang. <br>
     *IEEE Transactions on Knowledge and Data Engineering (**TKDE**).* [Under Major Revision]
-
-* Rethinking the Effect of Unimodal Labels in Multimodal Sentiment Analysis. <br>
-    Lingli Zhang, Tianrui Li, Baiyu Lu, **Junlin Fang**, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv. <br>
-    *ACM Transactions on Multimedia Computing, Communications, and Applications (**TOMM**).* [Under Major Revision]
-
+%
 ---
 
 # Education
