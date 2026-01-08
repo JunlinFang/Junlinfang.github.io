@@ -68,11 +68,11 @@ My research interests include the **Reliability**, **Security**, **Alignment**, 
     *Proceedings of the ACM International Conference on Information and Knowledge Management (**CIKM**), 2024.* (Oral) <br>
     [\[PDF\]](https://dl.acm.org/doi/10.1145/3627673.3679524) [\[Code\]](https://github.com/tiggers23/PMPL)
 
-%
+{%
 * Modeling Deep Fusion of Intra- and Inter-Modal Incongruity for Multimodal Sarcasm Detection. <br>
     Fengmao Lv, **Junlin Fang**, Guosheng Lin, Wenya Wang. <br>
     *IEEE Transactions on Knowledge and Data Engineering (**TKDE**).* [Under Major Revision]
-%
+%}
 ---
 
 # Education
