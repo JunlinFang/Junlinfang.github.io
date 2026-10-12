@@ -11,7 +11,31 @@
     <link rel="stylesheet" href="stylesheets/styles.css">
     <style>
       /* Publication entries: text only */
-      .publication-item { margin: 0 0 22px; }
+      .publication-note {
+        margin: -4px 0 20px;
+        color: #777;
+        font-size: 13px;
+      }
+      .publication-item { margin: 0 0 24px; }
+      .pub-title {
+        color: #222;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.4;
+        margin-bottom: 3px;
+      }
+      .pub-authors {
+        color: #555;
+        font-size: 14px;
+        line-height: 1.55;
+        margin-bottom: 2px;
+      }
+      .pub-venue {
+        color: #666;
+        font-size: 14px;
+        line-height: 1.5;
+      }
+      .pub-links { margin-top: 2px; }
       .pub-award { font-weight: bold; }
       .awards-list { list-style-type: disc; }
       .awards-list li { margin-bottom: 6px; }
@@ -69,105 +93,114 @@
       <div class="section-heading">
         <h2 id="Pubs">Publications</h2>
       </div>
+      <div class="publication-note"><sup>*</sup> Equal contribution.</div>
 
       <div class="publication-item">
         <div class="pub-content">
-          ToolCompass: Guiding Tool Trialing, Not Suppressing It<br>
-          <b>Junlin Fang</b>, Chong Zhang, Do Nguyen-Thanh, Xiaogang Xu, Zhen Fang, Sean Du<br>
-          <i>arXiv preprint arXiv:2609.25678</i>, 2026<br>
-          <a href="https://arxiv.org/pdf/2609.25678">[PDF]</a>
-          <a href="#">[Code]</a>
+          <div class="pub-title">ToolCompass: Guiding Tool Trialing, Not Suppressing It</div>
+          <div class="pub-authors"><b>Junlin Fang</b>, Chong Zhang, Do Nguyen-Thanh, Xiaogang Xu, Zhen Fang, Sean Du</div>
+          <div class="pub-venue"><i>arXiv preprint arXiv:2609.25678</i>, 2026</div>
+          <div class="pub-links"><a href="https://arxiv.org/pdf/2609.25678">[PDF]</a> <a href="#">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models<br>
-          <b>Junlin Fang</b>, Do Nguyen-Thanh, Xiaogang Xu, Zhen Fang, Sean Du<br>
-          <i>arXiv preprint arXiv:2607.22098</i>, 2026<br>
-          <a href="https://arxiv.org/abs/2607.22098">[PDF]</a>
-          <a href="#">[Code]</a>
+          <div class="pub-title">Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models</div>
+          <div class="pub-authors"><b>Junlin Fang</b>, Do Nguyen-Thanh, Xiaogang Xu, Zhen Fang, Sean Du</div>
+          <div class="pub-venue"><i>arXiv preprint arXiv:2607.22098</i>, 2026</div>
+          <div class="pub-links"><a href="https://arxiv.org/abs/2607.22098">[PDF]</a> <a href="#">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild<br>
-          <b>Junlin Fang</b>, Wenyu Chen, Reshmi Ghosh, Robert Sim, Ahmed Salem, Vitor R. Carvalho, Emily Lawton, Sharon Li, Jack W. Stokes, Sean Du<br>
-          <i>Transactions on Machine Learning Research</i> (<b>TMLR</b>), 2026<br>
-          <span class="pub-award">Journal to Conference Certificate (Top 10%)</span><br>
-          <a href="https://arxiv.org/abs/2410.00296">[PDF]</a>
-          <a href="https://github.com/radiolab-ntu/vlmguard">[Code]</a>
+          <div class="pub-title">Can Failed Trajectories Reveal Where Agents Go Wrong? Agentic Failure Attribution Without Step-Level Labels</div>
+          <div class="pub-authors">Do Nguyen-Thanh<sup>*</sup>, <b>Junlin Fang</b><sup>*</sup>, Bing Li, Zhen Fang, Sean Du</div>
+          <div class="pub-venue"><i>arXiv preprint arXiv:2610.13105</i>, 2026</div>
+          <div class="pub-links"><a href="https://arxiv.org/abs/2610.13105">[PDF]</a> <a href="#">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          Beyond known objects: prompting 6D pose estimator to learn novel objects continually<br>
-          Long Tian, Yang Liu, <b>Junlin Fang</b>, Lixin Duan, Wen Li, Fengmao Lv<br>
-          <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 2026, accepted.<br>
-          <a href="#">[PDF]</a>
-          <a href="#">[Code]</a>
+          <div class="pub-title">A Systematic Review of NLP for Ghanaian Languages: Datasets, Models, and a Research Roadmap</div>
+          <div class="pub-authors">Sheriff Issaka, Erick Rosas Gonzalez, Colene Agbo, Evans Kofi Agyei, Shruti Tyagi, John Emeka Eze, Enock Appiah Tieku, <b>Junlin Fang</b>, Thanh Do Nguyen, Juliet Arthur, Zhaoyi Zhang, Mihir Heda, Keyi Wang, Yinka Ajibola, Rebecca Akpanglo-Nartey, Frank Lawrence Nii Adoquaye Acquaye, Dennis Owusu, Jerry John Kponyo, Stephen Moore, Isaac Wiafe, Sean Du</div>
+          <div class="pub-venue"><i>arXiv preprint arXiv:2405.06818</i>, 2026</div>
+          <div class="pub-links"><a href="https://arxiv.org/abs/2405.06818v2">[PDF]</a> <a href="#">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          Rethinking the Effect of Unimodal Labels in Multimodal Sentiment Analysis<br>
-          Lingli Zhang, Tianrui Li, Baiyu Lu, <b>Junlin Fang</b>, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv<br>
-          <i>ACM Transactions on Multimedia Computing, Communications, and Applications</i> (<b>TOMM</b>), 2026<br>
-          <a href="https://dl.acm.org/doi/10.1145/3796718">[PDF]</a>
-          <a href="https://github.com/tiggers23/MTCL">[Code]</a>
+          <div class="pub-title">VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild</div>
+          <div class="pub-authors"><b>Junlin Fang</b>, Wenyu Chen, Reshmi Ghosh, Robert Sim, Ahmed Salem, Vitor R. Carvalho, Emily Lawton, Sharon Li, Jack W. Stokes, Sean Du</div>
+          <div class="pub-venue"><i>Transactions on Machine Learning Research</i> (<b>TMLR</b>), 2026</div>
+          <div><span class="pub-award">Journal to Conference Certificate (Top 10%)</span></div>
+          <div class="pub-links"><a href="https://arxiv.org/abs/2410.00296">[PDF]</a> <a href="https://github.com/radiolab-ntu/vlmguard">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          Modeling Deep Fusion of Intra- and Inter-Modal Incongruity for Multimodal Sarcasm Detection<br>
-          Fengmao Lv, <b>Junlin Fang</b>, Guosheng Lin, Wenya Wang<br>
-          <i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>), 2026<br>
-          <a href="https://doi.org/10.1109/TKDE.2026.3690133">[PDF]</a>
-          <a href="https://github.com/tiggers23/BiMCF">[Code]</a>
+          <div class="pub-title">Beyond known objects: prompting 6D pose estimator to learn novel objects continually</div>
+          <div class="pub-authors">Long Tian, Yang Liu, <b>Junlin Fang</b>, Lixin Duan, Wen Li, Fengmao Lv</div>
+          <div class="pub-venue"><i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 2026, accepted.</div>
+          <div class="pub-links"><a href="#">[PDF]</a> <a href="#">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          Why is a Bird's Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data<br>
-          <b>Junlin Fang</b>, Wenya Wang, Lingli Zhang, Fengmao Lv<br>
-          <i>ACM International Conference on Multimedia 2025</i> (<b>ACM MM</b>) <b>Oral</b><br>
-          <a href="https://dl.acm.org/doi/10.1145/3746027.3755653">[PDF]</a>
-          <a href="#">[Code]</a>
+          <div class="pub-title">Rethinking the Effect of Unimodal Labels in Multimodal Sentiment Analysis</div>
+          <div class="pub-authors">Lingli Zhang, Tianrui Li, Baiyu Lu, <b>Junlin Fang</b>, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv</div>
+          <div class="pub-venue"><i>ACM Transactions on Multimedia Computing, Communications, and Applications</i> (<b>TOMM</b>), 2026</div>
+          <div class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3796718">[PDF]</a> <a href="https://github.com/tiggers23/MTCL">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification<br>
-          Fengmao Lv, Mengting Xiong, <b>Junlin Fang</b>, Lingli Zhang, Tianze Luo, Weichao Liang, Tianrui Li<br>
-          <i>The ACM Web Conference 2025</i> (<b>WWW</b>) <b>Oral</b><br>
-          <a href="https://dl.acm.org/doi/10.1145/3696410.3714570">[PDF]</a>
-          <a href="https://github.com/tiggers23/MSTI-Plus">[Code]</a>
+          <div class="pub-title">Modeling Deep Fusion of Intra- and Inter-Modal Incongruity for Multimodal Sarcasm Detection</div>
+          <div class="pub-authors">Fengmao Lv, <b>Junlin Fang</b>, Guosheng Lin, Wenya Wang</div>
+          <div class="pub-venue"><i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>), 2026</div>
+          <div class="pub-links"><a href="https://doi.org/10.1109/TKDE.2026.3690133">[PDF]</a> <a href="https://github.com/tiggers23/BiMCF">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          Sentiment-oriented Sarcasm Integration for Video Sentiment Analysis Enhancement with Sarcasm Assistance<br>
-          <b>Junlin Fang</b>, Wenya Wang, Guosheng Lin, Fengmao Lv<br>
-          <i>ACM International Conference on Multimedia 2024</i> (<b>ACM MM</b>)<br>
-          <a href="https://dl.acm.org/doi/10.1145/3664647.3680703">[PDF]</a>
-          <a href="https://github.com/tiggers23/PS2RI">[Code]</a>
+          <div class="pub-title">Why is a Bird's Caption a Good Demonstration? Towards Effective Multimodal In-Context Learning without Dedicated Data</div>
+          <div class="pub-authors"><b>Junlin Fang</b>, Wenya Wang, Lingli Zhang, Fengmao Lv</div>
+          <div class="pub-venue"><i>ACM International Conference on Multimedia 2025</i> (<b>ACM MM</b>) <b>Oral</b></div>
+          <div class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3746027.3755653">[PDF]</a> <a href="#">[Code]</a></div>
         </div>
       </div>
 
       <div class="publication-item">
         <div class="pub-content">
-          Progressive Multimodal Pivot Learning: Towards Semantic Discordance Understanding as Humans<br>
-          <b>Junlin Fang</b>, Wenya Wang, Tianze Luo, Yanyong Huang, Fengmao Lv<br>
-          <i>ACM International Conference on Information and Knowledge Management 2024</i> (<b>CIKM</b>) <b>Oral</b><br>
-          <a href="https://dl.acm.org/doi/10.1145/3627673.3679524">[PDF]</a>
-          <a href="https://github.com/tiggers23/PMPL">[Code]</a>
+          <div class="pub-title">MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification</div>
+          <div class="pub-authors">Fengmao Lv, Mengting Xiong, <b>Junlin Fang</b>, Lingli Zhang, Tianze Luo, Weichao Liang, Tianrui Li</div>
+          <div class="pub-venue"><i>The ACM Web Conference 2025</i> (<b>WWW</b>) <b>Oral</b></div>
+          <div class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3696410.3714570">[PDF]</a> <a href="https://github.com/tiggers23/MSTI-Plus">[Code]</a></div>
+        </div>
+      </div>
+
+      <div class="publication-item">
+        <div class="pub-content">
+          <div class="pub-title">Sentiment-oriented Sarcasm Integration for Video Sentiment Analysis Enhancement with Sarcasm Assistance</div>
+          <div class="pub-authors"><b>Junlin Fang</b>, Wenya Wang, Guosheng Lin, Fengmao Lv</div>
+          <div class="pub-venue"><i>ACM International Conference on Multimedia 2024</i> (<b>ACM MM</b>)</div>
+          <div class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3664647.3680703">[PDF]</a> <a href="https://github.com/tiggers23/PS2RI">[Code]</a></div>
+        </div>
+      </div>
+
+      <div class="publication-item">
+        <div class="pub-content">
+          <div class="pub-title">Progressive Multimodal Pivot Learning: Towards Semantic Discordance Understanding as Humans</div>
+          <div class="pub-authors"><b>Junlin Fang</b>, Wenya Wang, Tianze Luo, Yanyong Huang, Fengmao Lv</div>
+          <div class="pub-venue"><i>ACM International Conference on Information and Knowledge Management 2024</i> (<b>CIKM</b>) <b>Oral</b></div>
+          <div class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3627673.3679524">[PDF]</a> <a href="https://github.com/tiggers23/PMPL">[Code]</a></div>
         </div>
       </div>
 
